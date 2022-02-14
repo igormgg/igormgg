@@ -16,7 +16,10 @@
 ![Material-UI](https://img.shields.io/badge/-MATERIAL--UI-blue?style=plastic&logo=materialui) <br>
 ![GIT](https://img.shields.io/badge/-GIT-white?style=plastic&logo=git) <br>
 ![Heroku](https://img.shields.io/badge/-HEROKU-blueviolet?style=plastic&logo=heroku) <br>
-![FLASK](https://img.shields.io/badge/-FLASK-red?style=plastic&logo=flask)
+![FLASK](https://img.shields.io/badge/-FLASK-red?style=plastic&logo=flask) <br>
+![MONGODB](https://img.shields.io/badge/-MONGODB-green?style=plastic&logo=mongodb) <br>
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-white?style=plastic&logo=postgresql) <br>
+![FLASK-SQLALCHEMY](https://img.shields.io/badge/-FLASK--SQLALCHEMY-red?style=plastic&logo)
 
 
 ### Currently Learning
